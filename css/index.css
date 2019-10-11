@@ -278,6 +278,10 @@ footer {
   padding: 0.8rem 0;
   width: 30%;
 }
+.home .walk .btn:hover {
+  background-color: #9ed46f;
+  color: lightcoral;
+}
 @media (max-width: 500px) {
   .home .walk .btn {
     width: auto;
