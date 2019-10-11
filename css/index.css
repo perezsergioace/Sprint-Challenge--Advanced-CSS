@@ -175,8 +175,9 @@ p {
   margin-top: 2rem;
   display: flex;
   justify-content: space-around;
-  width: 40%;
-  margin-left: 300px;
+  width: 25%;
+  margin: auto;
+  margin-top: 20px;
 }
 .navigation-content a {
   text-decoration: none;
